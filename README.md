@@ -235,7 +235,7 @@ streamlit run main.py
 The dashboard will open automatically at:
 
 
-(https://crypto-volatility-visualizer-kniks82zrj5njaymrxwnwv.streamlit.app/)Deployment
+https://crypto-volatility-visualizer-kniks82zrj5njaymrxwnwv.streamlit.app/)Deployment
 
 The project is deployed using Streamlit Cloud.
 
